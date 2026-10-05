@@ -2,7 +2,7 @@ My Personal Page
 
 This is a small website I made for my Git and GitHub assignment.
 
-I made the website using HTML and CSS. I also used Flexbox to help organize the page and the navigation.
+I made the website using HTML and CSS.
 
 What I included
 
